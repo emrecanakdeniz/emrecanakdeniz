@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning programming and new things 🤣
 - ⚡ About me loading attachments ...
 
-## Connect with me:
+## 🔗Connect with me:
 
 [![website](./img/mail-light.svg)](mailto:mail@emrecanakdeniz.com#gh-light-mode-only)
 [![website](./img/mail-dark.svg)](mailto:mail@emrecanakdeniz.com#gh-dark-mode-only)
